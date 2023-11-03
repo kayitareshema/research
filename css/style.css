@@ -35,6 +35,6 @@ nav{
     transition: 1s;
 }
 .nav-links li a:hover{
-    color: rgb(240, 167, 167);
+    color: rgb(212, 240, 167);
     font-size: 2rem;
 }
